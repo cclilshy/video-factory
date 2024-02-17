@@ -1,0 +1,17 @@
+{
+  "name": "cclilshy/video-factory",
+  "autoload": {
+    "psr-4": {
+      "Cclilshy\\VideoFactory\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "cclilshy",
+      "email": "jingnigg@gmail.com"
+    }
+  ],
+  "require": {},
+  "version": "dev-main",
+  "license": "MIT"
+}
